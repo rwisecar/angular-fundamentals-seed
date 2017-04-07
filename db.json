@@ -22,11 +22,11 @@
       "baggage": ""
     },
     {
+      "fullname": "Wonder Walker",
       "id": 4,
-      "fullname": "Wonder Washer",
       "checkedIn": true,
-      "checkInDate": 14605420000000,
-      "baggage": ""
+      "baggage": "hold-only",
+      "checkInDate": 1491608511444
     }
   ]
 }
